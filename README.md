@@ -8,3 +8,8 @@ Nov 19 2026
 - Mask Position
 - Mask Size
 - Mask Mode
+
+Nov 20 2026
+
+- Variabel In Css
+
