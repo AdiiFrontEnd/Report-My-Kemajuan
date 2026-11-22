@@ -13,3 +13,7 @@ Nov 20 2026
 
 - Variabel In Css
 
+Nov 23 2026
+
+- @property
+- 
