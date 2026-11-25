@@ -20,3 +20,8 @@ Nov 23 2026
 Nov 24 2026
 - Statement Js
 - Comment
+- Variable
+Nov 25 2026
+- Identifier Variable
+- Declaration Variable
+- 
